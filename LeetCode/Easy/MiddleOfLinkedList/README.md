@@ -20,7 +20,7 @@ Explanation: Since the list has two middle nodes with values 3 and 4, we return 
 1. Read the start node into two variables slow and fast
 2. Navigate slow by one step and fast by 2 steps
 3. Once fast node ends then thats the middle
-4.
+
 
 ### Tech
 
