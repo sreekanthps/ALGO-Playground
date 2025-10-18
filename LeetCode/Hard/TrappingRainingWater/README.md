@@ -46,5 +46,7 @@ Output: 9
 
 *[Trapping Rain Water](https://www.youtube.com/shorts/fy9v5orjn1M).   
 
+*[Trapping Rain Water Gregg Hog](https://www.youtube.com/watch?v=KFdHpOlz8hs&t=313s). 
+
 *[Leet code link](https://leetcode.com/problems/trapping-rain-water/description/).  
 
