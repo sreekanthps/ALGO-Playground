@@ -18,9 +18,9 @@ Explanation: Since the list has two middle nodes with values 3 and 4, we return 
 
 
 1. Read the start node into two variables slow and fast
-2. Navigate slow by one step and fast by 2 steps
-3. Once fast node ends then thats the middle
-4.
+2. Navigate slow node by one step and fast n ode by 2 steps
+3. Once fast node ends then that's the middle
+
 
 ### Tech
 
@@ -29,4 +29,8 @@ Explanation: Since the list has two middle nodes with values 3 and 4, we return 
 ### Links
 
 *[Middle of the Linked List ](https://www.youtube.com/shorts/92dnXjRqIC0).
+
 *[Leet code link](https://leetcode.com/problems/middle-of-the-linked-list/description/).
+
+### Solution
+[Solution 1](https://algo.monster/liteproblems/876)
