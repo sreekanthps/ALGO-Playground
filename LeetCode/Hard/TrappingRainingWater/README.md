@@ -20,7 +20,7 @@ Output: 9
 
 
 1. Prepare the Max Left values into array
-2. Preapre the Max right values into array
+2. Prepare the Max right values into array
 3. Find the position  (min of max left and max right)
 4. Add sum = max of 0 and position - height[i]
 
@@ -33,8 +33,8 @@ Output: 9
 **Space Complexity** : O(1)
 
 
-1. Conpare MaxLeft and Maxright values in Array and keep moving the pointer which ever is min
-2. PFor each pointer movement calucate the difference between current points and maxLeft or maxRight and see if value is positive that is height of water
+1. Compare MaxLeft and MaxRight values in the Array and keep moving the pointer whichever is min
+2. For each pointer movement, calculate the difference between the  current points and maxLeft or maxRight, and see if the value is positive, that is height of water
 
 ![Method 2](/images/method2.png "Method 2")
 
@@ -44,7 +44,9 @@ Output: 9
 
 ### Links
 
-*[Trapping Rain Water](https://www.youtube.com/shorts/fy9v5orjn1M).   
+*[Trapping Rain Water]([https://www.youtube.com/shorts/fy9v5orjn1M](https://www.youtube.com/watch?v=ZI2z5pq0TqA)).   
+
+*[Trapping Rain Water Gregg Hog](https://www.youtube.com/watch?v=KFdHpOlz8hs&t=313s). 
 
 *[Leet code link](https://leetcode.com/problems/trapping-rain-water/description/).  
 
